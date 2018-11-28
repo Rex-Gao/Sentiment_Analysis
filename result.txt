@@ -1,0 +1,54 @@
+Review	Predicted sentiment	Probability
+IT was in the spring of the year 1894 that all London was interested, and the fashionable world dismayed, by the murder of the Honourable Ronald Adair under most unusual and inexplicable circumstances.	Positive	0.56
+The public has already learned those particulars of the crime which came out in the police investigation; but a good deal was suppressed upon that occasion, since the case for the prosecution was so overwhelmingly strong that it was not necessary to bring forward all the facts.	Positive	0.67
+Only now, at the end of nearly ten years, am I allowed to supply those missing links which make up the whole of that remarkable chain.	Negative	0.75
+The crime was of interest in itself, but that interest was as nothing to me compared to the inconceivable sequel, which afforded me the greatest shock and surprise of any event in my adventurous life.	Negative	0.58
+Even now, after this long interval, I find myself thrilling as I think of it, and feeling once more that sudden flood of joy, amazement, and incredulity which utterly submerged my mind.	Negative	0.54
+Let me say to that public which has shown some interest in those glimpses which I have occasionally given them of the thoughts and actions of a very remarkable man that they are not to blame me if I have not shared my knowledge with them, for I should have considered it my first duty to have done so had I not been barred by a positive prohibition from his own lips, which was only withdrawn upon the third of last month.	Negative	0.78
+It can be imagined that my close intimacy with Sherlock Holmes had interested me deeply in crime, and that after his disappearance I never failed to read with care the various problems which came before the public, and I even attempted more than once for my own private satisfaction to employ his methods in their solution, though with indifferent success.	Negative	0.71
+There was none, however, which appealed to me like this tragedy of Ronald Adair.	Negative	0.66
+As I read the evidence at the inquest, which led up to a verdict of wilful murder against some person or persons unknown, I realized more clearly than I had ever done the loss which the community had sustained by the death of Sherlock Holmes.	Negative	0.54
+There were points about this strange business which would, I was sure, have specially appealed to him, and the efforts of the police would have been supplemented, or more probably anticipated, by the trained observation and the alert mind of the first criminal agent in Europe.	Negative	0.71
+All day as I drove upon my round I turned over the case in my mind, and found no explanation which appeared to me to be adequate.	Negative	0.51
+At the risk of telling a twice-told tale I will recapitulate the facts as they were known to the public at the conclusion of the inquest.	Positive	0.63
+The Honourable Ronald Adair was the second son of the Earl of Maynooth, at that time Governor of one of the Australian Colonies.	Positive	0.54
+Adair's mother had returned from Australia to undergo the operation for cataract, and she, her son Ronald, and her daughter Hilda were living together at 427, Park Lane.	Positive	0.54
+The youth moved in the best society, had, so far as was known, no enemies, and no particular vices.	Positive	0.65
+He had been engaged to Miss Edith Woodley, of Carstairs, but the engagement had been broken off by mutual consent some months before, and there was no sign that it had left any very profound feeling behind it.	Negative	0.63
+For the rest the man's life moved in a narrow and conventional circle, for his habits were quiet and his nature unemotional.	Positive	0.65
+Yet it was upon this easy-going young aristocrat that death came in most strange and unexpected form between the hours of ten and eleven-twenty on the night of March 30, 1894.	Positive	0.65
+Ronald Adair was fond of cards, playing continually, but never for such stakes as would hurt him.	Positive	0.59
+He was a member of the Baldwin, the Cavendish, and the Bagatelle card clubs.	Negative	0.62
+It was shown that after dinner on the day of his death he had played a rubber of whist at the latter club.	Negative	0.62
+He had also played there in the afternoon.	Positive	0.51
+The evidence of those who had played with him--Mr. Murray, Sir John Hardy, and Colonel Moran--showed that the game was whist, and that there was a fairly equal fall of the cards.	Negative	0.52
+Adair might have lost five pounds, but not more.	Negative	0.65
+His fortune was a considerable one, and such a loss could not in any way affect him.	Negative	0.63
+He had played nearly every day at one club or other, but he was a cautious player, and usually rose a winner.	Positive	0.58
+It came out in evidence that in partnership with Colonel Moran he had actually won as much as four hundred and twenty pounds in a sitting some weeks before from Godfrey Milner and Lord Balmoral.	Positive	0.6
+So much for his recent history, as it came out at the inquest.	Negative	0.52
+On the evening of the crime he returned from the club exactly at ten.	Positive	0.54
+His mother and sister were out spending the evening with a relation.	Negative	0.5
+The servant deposed that she heard him enter the front room on the second floor, generally used as his sitting-room.	Negative	0.55
+She had lit a fire there, and as it smoked she had opened the window.	Positive	0.55
+No sound was heard from the room until eleven-twenty, the hour of the return of Lady Maynooth and her daughter.	Negative	0.57
+Desiring to say good-night, she had attempted to enter her son's room.	Negative	0.56
+The door was locked on the inside, and no answer could be got to their cries and knocking.	Negative	0.81
+Help was obtained and the door forced.	Negative	0.6
+The unfortunate young man was found lying near the table.	Negative	0.51
+His head had been horribly mutilated by an expanding revolver bullet, but no weapon of any sort was to be found in the room.	Negative	0.68
+On the table lay two bank-notes for ten pounds each and seventeen pounds ten in silver and gold, the money arranged in little piles of varying amount.	Negative	0.57
+There were some figures also upon a sheet of paper with the names of some club friends opposite to them, from which it was conjectured that before his death he was endeavouring to make out his losses or winnings at cards.	Positive	0.55
+A minute examination of the circumstances served only to make the case more complex.	Negative	0.8
+In the first place, no reason could be given why the young man should have fastened the door upon the inside.	Negative	0.89
+There was the possibility that the murderer had done this and had afterwards escaped by the window.	Positive	0.52
+The drop was at least twenty feet, however, and a bed of crocuses in full bloom lay beneath.	Negative	0.6
+Neither the flowers nor the earth showed any sign of having been disturbed, nor were there any marks upon the narrow strip of grass which separated the house from the road.	Negative	0.74
+Apparently, therefore, it was the young man himself who had fastened the door.	Negative	0.52
+But how did he come by his death?	Negative	0.64
+No one could have climbed up to the window without leaving traces.	Negative	0.6
+Suppose a man had fired through the window, it would indeed be a remarkable shot who could with a revolver inflict so deadly a wound.	Negative	0.53
+Again, Park Lane is a frequented thoroughfare, and there is a cab-stand within a hundred yards of the house.	Negative	0.65
+No one had heard a shot.	Positive	0.59
+And yet there was the dead man, and there the revolver bullet, which had mushroomed out, as soft-nosed bullets will, and so inflicted a wound which must have caused instantaneous death.	Negative	0.55
+Such were the circumstances of the Park Lane Mystery, which were further complicated by entire absence of motive, since, as I have said, young Adair was not known to have any enemy, and no attempt had been made to remove the money or valuables in the room.	Negative	0.72
